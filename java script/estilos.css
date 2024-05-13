@@ -8,3 +8,11 @@ body{
 #beta{
     text-align: center;
 }
+
+#elemento{
+    padding: 4px;
+    text-align: center;
+    display: grid;
+    border-style: dotted;
+    border-width: 10px;
+}
