@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(97, 134, 32);
+    display: grid;
+    justify-content: center;
+}
+
+
+#beta{
+    text-align: center;
+}
+
+#elemento{
+    padding: 4px;
+    text-align: center;
+    display: grid;
+    border-style: dotted;
+    border-width: 10px;
+}
