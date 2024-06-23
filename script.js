@@ -8,6 +8,6 @@ function prueba() {
     let tituloH1 = document.querySelector("#beta");
     console.log(textInput);
     tituloH1.textContent = textInput;
-    tituloH1.style.color = 'rgb($(math.random() * 256),$(math.random() * 256),$(math.random() * 256)';
+    tituloH1.style.color = `rgb(${math.random() * 256},${math.random() * 256},${math.random() * 256})`;
 
 }
